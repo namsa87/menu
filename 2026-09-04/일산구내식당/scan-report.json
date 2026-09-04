@@ -1,6 +1,6 @@
 {
   "target_date": "2026-09-04",
-  "generated_at": "2026-09-04T08:51:29.692559+09:00",
+  "generated_at": "2026-09-04T11:07:36.775676+09:00",
   "source_group": "일산구내식당",
   "source_urls": [
     "https://pf.kakao.com/_ZxbFZK/55113474",
@@ -10,7 +10,7 @@
   ],
   "ocr_ready": true,
   "tesseract": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
-  "matched_count": 9,
+  "matched_count": 16,
   "records": [
     {
       "company": "밥뜨랑 중산점",
@@ -47,6 +47,102 @@
       "output_file": "",
       "sha256": "31c193e9d3e9ed79f6557b0848efd58b086cab2ac799a98691b707cb0a3d56e9",
       "ocr_text": " 마늘맨\n6 )\n SKI\n\n5 하늘민\n\nNENi\n"
+    },
+    {
+      "company": "하늘민먹을식 고양법원지점",
+      "source_url": "http://pf.kakao.com/_fMzdG/114479835",
+      "source_kind": "post",
+      "source_id": "114479835-1",
+      "image_url": "https://k.kakaocdn.net/dn/nyEOe/dJMcagmuoQ7/veeuT1hmHSJe6hcZK2SQN1/img_xl.jpg",
+      "status": "matched",
+      "reason": "date found in post title/content",
+      "output_file": "C:\\Users\\namsa\\문서\\blog\\downloads\\2026-09-04\\일산구내식당\\2026-09-04_하늘민먹을식_고양법원지점_post_01.jpg",
+      "sha256": "4b09c3ae96e9b3bbe034b885e3c4a2c518c4c5a84360e3f4cc88ea243975bddb",
+      "ocr_text": ""
+    },
+    {
+      "company": "하늘민먹을식 고양법원지점",
+      "source_url": "http://pf.kakao.com/_fMzdG/114479835",
+      "source_kind": "post",
+      "source_id": "114479835-2",
+      "image_url": "https://k.kakaocdn.net/dn/bzLyIe/dJMcaf8STXk/GpxGzzqmEX7IhGKtHoJWck/img_xl.jpg",
+      "status": "matched",
+      "reason": "date found in post title/content",
+      "output_file": "C:\\Users\\namsa\\문서\\blog\\downloads\\2026-09-04\\일산구내식당\\2026-09-04_하늘민먹을식_고양법원지점_post_02.jpg",
+      "sha256": "f411fcb29f8a8dd1947c3b3a60bc7567f4f8be934519c0e9af82e93f3c493454",
+      "ocr_text": ""
+    },
+    {
+      "company": "하늘민먹을식 고양법원지점",
+      "source_url": "http://pf.kakao.com/_fMzdG/114479835",
+      "source_kind": "post",
+      "source_id": "114479835-3",
+      "image_url": "https://k.kakaocdn.net/dn/ykNzx/dJMcafunblB/k8UGaoQXFD4nzuHor9YGn0/img_xl.jpg",
+      "status": "matched",
+      "reason": "date found in post title/content",
+      "output_file": "C:\\Users\\namsa\\문서\\blog\\downloads\\2026-09-04\\일산구내식당\\2026-09-04_하늘민먹을식_고양법원지점_post_03.jpg",
+      "sha256": "0eba5347596cb740ff9f9062b20e5a8abfba00cbde0527ef59e000d4b92c9f03",
+      "ocr_text": ""
+    },
+    {
+      "company": "하늘민먹을식 고양법원지점",
+      "source_url": "http://pf.kakao.com/_fMzdG/114479835",
+      "source_kind": "post",
+      "source_id": "114479835-4",
+      "image_url": "https://k.kakaocdn.net/dn/cre5Uy/dJMcagGWjVk/XhK5hFiPMWwlKf6bV5nFDk/img_xl.jpg",
+      "status": "matched",
+      "reason": "date found in post title/content",
+      "output_file": "C:\\Users\\namsa\\문서\\blog\\downloads\\2026-09-04\\일산구내식당\\2026-09-04_하늘민먹을식_고양법원지점_post_04.jpg",
+      "sha256": "4479c74332cbbe56b856399b70e41e7c02791736753dbfeedf6350f6872f22f3",
+      "ocr_text": ""
+    },
+    {
+      "company": "하늘민먹을식 고양법원지점",
+      "source_url": "http://pf.kakao.com/_fMzdG/114479835",
+      "source_kind": "post",
+      "source_id": "114479835-5",
+      "image_url": "https://k.kakaocdn.net/dn/gTLSR/dJMcaiEGGkf/hpE11NwK9kzSoaNwyFbMx0/img_xl.jpg",
+      "status": "matched",
+      "reason": "date found in post title/content",
+      "output_file": "C:\\Users\\namsa\\문서\\blog\\downloads\\2026-09-04\\일산구내식당\\2026-09-04_하늘민먹을식_고양법원지점_post_05.jpg",
+      "sha256": "f70434daca2538278ff7dd8901c853903dbe4c14ff624a78ede1e5d8eeacdd7a",
+      "ocr_text": ""
+    },
+    {
+      "company": "하늘민먹을식 고양법원지점",
+      "source_url": "http://pf.kakao.com/_fMzdG/114479835",
+      "source_kind": "post",
+      "source_id": "114479835-6",
+      "image_url": "https://k.kakaocdn.net/dn/hLvjS/dJMcacRRYc6/cko61PiVqbdUIkNSIu4oKk/img_xl.jpg",
+      "status": "matched",
+      "reason": "date found in post title/content",
+      "output_file": "C:\\Users\\namsa\\문서\\blog\\downloads\\2026-09-04\\일산구내식당\\2026-09-04_하늘민먹을식_고양법원지점_post_06.jpg",
+      "sha256": "0ca2ec1a42ddc50058b21073c7c7206894b10922b9422fddc8b7ffa750353f60",
+      "ocr_text": ""
+    },
+    {
+      "company": "하늘민먹을식 고양법원지점",
+      "source_url": "http://pf.kakao.com/_fMzdG/114479835",
+      "source_kind": "post",
+      "source_id": "114479835-7",
+      "image_url": "https://k.kakaocdn.net/dn/cDcBXw/dJMcagGWjVm/hcsU12LWu34ieDaiFYQGG1/img_xl.jpg",
+      "status": "matched",
+      "reason": "date found in post title/content",
+      "output_file": "C:\\Users\\namsa\\문서\\blog\\downloads\\2026-09-04\\일산구내식당\\2026-09-04_하늘민먹을식_고양법원지점_post_07.jpg",
+      "sha256": "b1d6f02c85df19c077110680403e0c00c1bff209f8a2035b7f4d055ff0b1c298",
+      "ocr_text": ""
+    },
+    {
+      "company": "하늘민먹을식 고양법원지점",
+      "source_url": "http://pf.kakao.com/_fMzdG/114465714",
+      "source_kind": "post",
+      "source_id": "114465714-1",
+      "image_url": "https://k.kakaocdn.net/dn/gdCiS/dJMcaf8RYZC/iWoFWENKk8yaxHy1iiH550/img_xl.jpg",
+      "status": "not_matched",
+      "reason": "target date not found by OCR",
+      "output_file": "",
+      "sha256": "5cd7f8210181889173532de998a6067c0d59bc085156c744f19a44be3cc45b5a",
+      "ocr_text": "core\n스가 시다프                                                aa] CSO\na 얼 간  을 | 단 ae                                                    onl\n맛있고 건강한 맛을 전하기 위해 최선을 다하겠습니다.\n        9.7             9.8             9.9            9.10            on\n2주자              MON.                 TUES                 WED                 THURS                 FRI\n닭도리탕               부대찌개              야채비빔밥               aac               제육불고기\n빅미발                 백미밥                 보리밥                 백미밥                완두콩밥\n숙주나물                떡볶이               계란후라이               탕수육                사각어묵\n중식\n정경채무침                순대               당근채/무생채             숙주나물               QAO\n방게무침              애호박나물           애호박나물/콩나물            JUS             얼갈이된장무침\nAE?|               깨바라무침               청국장                방게무침               볶음김치\n된장국                배추김치                                     짝두기                 미역국\n\n하늘민\n\n주간 식단표\n\nSY een\n\n맛있고 건강한 맛을 전하기 위해 최선을 다하겠습니다.\n\n용구\n\n9.8\n\n9.9\n\n9.10\n\n9.1\n\n2주차\n\nMON.\n\nTUES\n\nWED\n\nTHURS\n\nFRI\n\n닭도리탕\n\n부대찌개\n\n야채비빔밥\n\nase\n\n제육불고기\n\n백미밥\n\n보리밥\n\n백미밥\n\n완두콩:\n\n백미밥\n\n숙주나물\n\n떡볶이\n\n계란후라이\n\n탕수육\n\n사각어묵\n\n중식\n\n정경채무침\n\n순대\n\n당근채/무생채\n\n숙주나물\n\nQAO\n\n방게무침\n\n애호박나물\n\n애호박나물/콩나물\n\n가지나물\n\n얼갈이된장무침\n\n각두기\n\n째바라무침\n\n청국장\n\n방게무침\n\nSUA\n\n——\n\n된장국\n\n배추김치\n\n짝두기\n\n미역국\n\n※ 메뉴는\n\n식자재 시황 및 상황에 따라 일부 변경될 수 있습니다.\n"
     },
     {
       "company": "하늘민먹을식 고양법원지점",
@@ -488,7 +584,7 @@
       "image_url": "https://k.kakaocdn.net/dn/gNhGC/dJMcahlpYRu/kId0rAR8qzwk4lXoikvymk/img_xl.jpg",
       "status": "matched",
       "reason": "date found in post title/content",
-      "output_file": "C:\\Users\\namsa\\문서\\blog\\downloads\\2026-09-04\\일산구내식당\\2026-09-04_하늘민먹을식_고양법원지점_post_01.jpg",
+      "output_file": "C:\\Users\\namsa\\문서\\blog\\downloads\\2026-09-04\\일산구내식당\\2026-09-04_하늘민먹을식_고양법원지점_post_08.jpg",
       "sha256": "e383c31510bd0278c799fd4992464bc6878f2c5ef40670711a229c36eaae8c81",
       "ocr_text": ""
     },
